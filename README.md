@@ -16,7 +16,9 @@ The framework covers both currently useful ReqRes API surfaces:
 
 ## Project Preview
 
-![Playwright API test execution](assets/screenshot01.png)
+![Playwright API test execution](assets/screenshot03.png)
+
+![Playwright HTML report](assets/screenshot01.png)
 
 ![Playwright HTML report](assets/screenshot02.png)
 
