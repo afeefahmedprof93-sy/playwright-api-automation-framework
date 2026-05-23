@@ -1,0 +1,19 @@
+{
+  "name": "playwright-api-automation-reqres",
+  "version": "1.0.0",
+  "description": "API automation framework for ReqRes using Playwright and TypeScript.",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report",
+    "lint": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^22.15.21",
+    "dotenv": "^16.5.0",
+    "typescript": "^5.8.3"
+  }
+}
